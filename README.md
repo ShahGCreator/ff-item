@@ -1,14 +1,14 @@
 # 🚀 FF Item Library — Free Fire Items Database & Explorer
 
 Welcome to **FF Item Library** — a powerful, fast, and user‑friendly **Free Fire item search and explorer tool** designed for players, collectors, and Free Fire enthusiasts. 🔥  
-This web app enables you to **search, filter, preview, and explore** Free Fire items with ease. Whether it’s weapon skins, characters, emotes, backpacks, bundles, pets or other in‑game cosmetics — find them all in one place! 0
+This web app enables you to **search, filter, preview, and explore** Free Fire items with ease. Whether it’s weapon skins, characters, emotes, backpacks, bundles, pets or other in‑game cosmetics — find them all in one place!
 
 ---
 
 ## 🌐 Live Demo
 
 👉 https://ff-item.netlify.app/  
-Live site hosted on Netlify with fast performance and responsive design, accessible on desktop and mobile devices. 1
+Live site hosted on Netlify with fast performance and responsive design, accessible on desktop and mobile devices.
 
 ---
 
@@ -28,7 +28,7 @@ Browse and filter thousands of items such as:
 - Characters & Pets  
 - Emotes & Animations  
 - Loot Crates & Tokens  
-- Parachutes, Skyboards, Gloo Walls, Banners & more 2
+- Parachutes, Skyboards, Gloo Walls, Banners & more
 
 ### 📋 Item Details Preview  
 Click any item to view:  
@@ -36,13 +36,13 @@ Click any item to view:
 - Icon & Visual Preview  
 - Item ID  
 - Description (if available)  
-- Ability to copy data for use in other tools or guides 3
+- Ability to copy data for use in other tools or guides
 
 ### ⚙️ Customizable Experience  
 Features include:  
 ✔ Sorting by category & rarity  
 ✔ Quick copy of item IDs  
-✔ Responsive layout for every screen size 4
+✔ Responsive layout for every screen size
 
 ---
 
@@ -53,7 +53,7 @@ Free Fire has thousands of in‑game items that players collect, trade, or discu
 - Character outfits and bundles  
 - Emotes, banners, avatars, and cosmetic items
 
-FF Item Library provides a **central searchable reference** to easily find item info outside the game — especially useful for content creators, database builders, fan communities, and modders alike. 5
+FF Item Library provides a **central searchable reference** to easily find item info outside the game — especially useful for content creators, database builders, fan communities, and modders alike.
 
 ---
 
@@ -64,7 +64,7 @@ This site uses modern web standards for best speed and compatibility:
 - Responsive design for mobile & desktop use
 - Fast static hosting via Netlify
 
-No backend or database required — it’s a static web app that loads data efficiently and instantly. 6
+No backend or database required — it’s a static web app that loads data efficiently and instantly.
 
 ---
 
@@ -82,7 +82,7 @@ GitHub hosting enables easy collaboration with the Free Fire community.
 
 ## 📣 Credits & Attribution
 
-This project is made for the Free Fire community — all item catalog data comes from public resources. Not affiliated with **Garena** or official Free Fire studios. All Free Fire trademarks belong to their respective owners. 7
+This project is made for the Free Fire community — all item catalog data comes from public resources. Not affiliated with **Garena** or official Free Fire studios. All Free Fire trademarks belong to their respective owners.
 
 ---
 
